@@ -1,3 +1,8 @@
+
+![Screenshot 2025-05-04 170102](https://github.com/user-attachments/assets/7e0f867e-ab37-4772-9cd5-d2a165a6904a)
+
+
+
 # Advanced Email/SMS Spam Classifier
 
 A sophisticated machine learning application that analyzes and classifies text messages as spam or not spam, with advanced features and detailed analytics.
@@ -80,4 +85,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For questions or suggestions, please open an issue in the repository.
-
